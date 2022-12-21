@@ -79,7 +79,7 @@ Example with key to image:
 
 Size images with html \<img src="" alt="altText" width="auto" height="200"> tag and add width and height properties or add a \<style> tag and style using css:
 
-<img src="https://images.unsplash.com/photo-1598048150218-53ab5609ef31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="" height="200px" class="image">
+<img src="https://images.unsplash.com/photo-1667733024906-8e94057d7ec8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="citrus fruits" width="" height="200px" class="image">
 
 <style>
   .image{
